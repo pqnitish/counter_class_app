@@ -1,0 +1,31 @@
+body {
+  margin-top: 60px;
+  background-color: bisque;
+}
+#container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  height: 160px;
+  padding: 28px;
+  background-color: #a39d8b;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.btn-style {
+  padding: 15px;
+  width: 160px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  background-color: aqua;
+  color: black;
+  font-weight: 900;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#incrementButton {
+  background-color: #ed1909;
+}
+#counterDisplay {
+  color: green;
+}
